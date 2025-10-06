@@ -1,4 +1,4 @@
-// MyPage WebApp — plain Node.js http server (no Express)
+// MyPage WebApp
 
 // 1) Built-in http module
 const http = require("http");
