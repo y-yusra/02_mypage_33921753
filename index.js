@@ -6,7 +6,7 @@ const http = require("http");
 // 2) Choose a port for local server
 const PORT = 8000;
 
-// 3) My HTML page (structure: doctype, html, head, body)
+// 3) My HTML page
 const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
